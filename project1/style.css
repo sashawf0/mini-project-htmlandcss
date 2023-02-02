@@ -10,7 +10,6 @@ body{
     border-radius: 10%;
     box-shadow: rgba(228, 8, 173, 0.25) 0px 54px 55px, rgba(243, 6, 192, 0.12) 0px -12px 30px, rgba(233, 5, 176, 0.12) 0px 4px 6px, rgba(226, 7, 208, 0.17) 0px 12px 13px, rgba(241, 6, 183, 0.09) 0px -3px 5px;
 }
-
 .container-img img{
     width: 15rem;
     border-radius:50%;
@@ -32,19 +31,8 @@ h2{
 p{
     border-bottom: 2px dotted rgb(20, 226, 20);
 }
-
-
-
-
-
-
-
-
-
-
 .container-logo {
     margin: 9rem 0 0 12rem;
-
 }
 
 .container-logo img{
